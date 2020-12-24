@@ -11,3 +11,7 @@ The remainder grid is a visualization of the remainders for each (x,y) pair in a
 3)----------------------------------------
 
 Conway's game of life program.
+
+4)----------------------------------------
+
+Graphs the number of A, T, C, or G per 100 in covid genome vs the frequency that certain number of A, T, C, or G appears. Cool demonstration that things in nature tend to be distributed normally!
