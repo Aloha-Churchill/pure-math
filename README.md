@@ -7,3 +7,6 @@ Recaman sequence: I wanted to visualize how long it took to hit some numbers in 
 2)--------------------------
 
 The remainder grid is a visualization of the remainders for each (x,y) pair in a cartesian plane. 
+
+3)----------------------------------------
+Conway's game of life program.
