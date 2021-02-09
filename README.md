@@ -15,3 +15,7 @@ Conway's game of life program.
 4)----------------------------------------
 
 Graphs the number of A, T, C, or G per 100 in covid genome vs the frequency that certain number of A, T, C, or G appears. Cool demonstration that things in nature tend to be distributed normally!
+
+5)-----------------------------------------
+
+I wrote an article on how I implemented linear regression from scratch and published it on Medium. Hope you enjoy! 
