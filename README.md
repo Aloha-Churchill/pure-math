@@ -19,3 +19,4 @@ Graphs the number of A, T, C, or G per 100 in covid genome vs the frequency that
 5)-----------------------------------------
 
 I wrote an article on how I implemented linear regression from scratch and published it on Medium. Hope you enjoy! 
+https://medium.com/@churchill.aloha/linear-regression-from-scratch-in-python-6f2a51db05d8
